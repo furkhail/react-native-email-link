@@ -86,7 +86,22 @@ const uriParams = {
     subject: 'subject',
     body: 'body'
   },
-
+  yahoo: {
+    path: 'compose',
+    to: 'to',
+    cc: 'cc',
+    bcc: 'bcc',
+    subject: 'subject',
+    body: 'body'
+  },
+  superhuman: {
+    path: 'compose',
+    to: 'to',
+    cc: 'cc',
+    bcc: 'bcc',
+    subject: 'subject',
+    body: 'body'
+  },
 }
 
 /**
